@@ -20,7 +20,7 @@
 
 <h3><b><i>🤠 About me :</i></b></h3>
 
-<li> 🇧🇩 <i>Resident of Pakistan</i></li>
+<li> 🇵🇰 <i>Resident of Pakistan</i></li>
 
 <li> 😇 <i>Muslim</i></li>
 
